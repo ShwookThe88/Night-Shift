@@ -1,5 +1,6 @@
 # Nightshift
 
+[![Nightshift 3D model](nightshift_spin.gif)](https://claude.ai/artifact/8DcWtxZSyx7EMGrQfryrVj)
 A 2-seat sport UTV powered by a Harley-Davidson Revolution Max 975T engine, designed as a parametric 3D CAD model in Python (CadQuery).
 
 **[View the interactive 3D model](https://claude.ai/artifact/8DcWtxZSyx7EMGrQfryrVj)**
